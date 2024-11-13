@@ -22,3 +22,4 @@ La función debe retornar la cantidad de keys cuyo valor es de tipo string strin
 ### *Nota*
 
   - Debe tener en cuenta que el nivel de profundidad del objeto puede ser mayor a 1.
+  - El objeto no contiene keys de tipo Array.
