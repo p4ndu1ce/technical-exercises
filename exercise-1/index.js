@@ -28,5 +28,7 @@ const solution2 = (docs) => {
   return result;
 }
 
-console.log(solution1([['Doc2', 1], ['Doc4', 9], ['Doc1', 7], ['Doc3', 1]]));
-console.log(solution2([['Doc2', 1], ['Doc4', 9], ['Doc1', 7], ['Doc3', 1]]));
+const example = [['Doc2', 1], ['Doc4', 9], ['Doc1', 7], ['Doc3', 1]];
+
+console.log(solution1(example));
+console.log(solution2(example));
